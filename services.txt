@@ -1,3 +1,0 @@
-CSP1:Datamining,Webmining
-CSP2:Mapreduce,Bigdata
-CSP3:Textmining,Imageprocessing
